@@ -21,7 +21,7 @@ O Azure oferece um conjunto de melhores práticas para otimizar a segurança, de
   - Azure Well-Architected Framework - Guia que ajuda a projetar e operar cargas de trabalho na nuvem, cobrindo cinco pilares: excelência operacional, segurança, confiabilidade, desempenho e otimização de custos.
   - Azure Advisor - Serviço que fornece recomendações personalizadas para ajudar a otimizar a segurança, desempenho, alta disponibilidade e custo dos seus recursos do Azure.
 
-## Links
+## Links Úteis e Recursos
 
 https://docs.microsoft.com/azure/governance/policy/overview
 
