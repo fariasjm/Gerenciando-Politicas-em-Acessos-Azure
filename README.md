@@ -8,6 +8,9 @@ As políticas na Azure impõem regras e efeitos sobre os recursos para que esses
   - Atribuir Permissões - Usar o RBAC para conceder permissões de acesso com base nas funções de cada usuário.
   - Configurar Azure Policies - Criar políticas para reforçar o controle de acesso e garantir que os recursos criados estejam de acordo com os padrões.
   - Monitoramento e Auditoria - Utilizar o Azure Monitor e Azure Security Center para rastrear atividades e monitorar a conformidade com as políticas de segurança.
+  - 
+    ![image](https://github.com/user-attachments/assets/8312be46-154b-4c44-aa6b-b57e408ee5ce)
+
 
 ## Conformidade no Azure
 
